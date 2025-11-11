@@ -26,4 +26,16 @@ This is a **console-based Java project** that demonstrates key **Object-Oriented
 
 ---
 
+## ✍️ Author
+**Lakshman Atmakuri**  
+🎓 3rd Semester, Information Science & Engineering  
+🏫 R.V. College of Engineering, Bangalore  
+📧 lakshmanatmakuri192@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshman-atmakuri-134a52339)
+
+---
+
+⭐ **If you found this project helpful, give it a star on GitHub!**
+
+
 
