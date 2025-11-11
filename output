@@ -1,0 +1,111 @@
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 2
+No books in the library!
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 1
+Enter Book ID: 001
+Enter Book Title: introduction to java
+Enter Author: charles
+Book added successfully!
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 1
+Enter Book ID: 002
+Enter Book Title: algorithms made simpler
+Enter Author: narsimha karumanchi
+Book added successfully!
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 2
+ID: 1 | Title: introduction to java | Author: charles | Status: Available
+ID: 2 | Title: algorithms made simpler | Author: narsimha karumanchi | Status: Available
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 4
+Enter Book ID to Issue: 002
+Enter Your Name: lakshman
+Book issued successfully!
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 2
+ID: 1 | Title: introduction to java | Author: charles | Status: Available
+ID: 2 | Title: algorithms made simpler | Author: narsimha karumanchi | Status: Issued
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 5
+Enter Book ID to Return: 002
+Book returned successfully!
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 2
+ID: 1 | Title: introduction to java | Author: charles | Status: Available
+ID: 2 | Title: algorithms made simpler | Author: narsimha karumanchi | Status: Available
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Remove Book
+7. Exit
+Enter choice: 7
+Exiting... Thank you!
